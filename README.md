@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesus Acosta</h1>
 <h3 align="center">Soy Full Stack Web Developer de 23 años graduado en Henry, vivo en Buenos Aires, Argentina.
+  <br/>
 A través de mi experiencia en Henry Bootcamp, adquirí habilidades y conocimientos esenciales para llevar mi carrera a nuevas alturas 🚀 Como resultado, domino tecnologías clave como:
 Javascript
 React.js
@@ -10,7 +11,6 @@ Sequelize
 GIT
 Entre otras tegnologias y frameworks, y estoy entusiasmado en aprender muchas mas.
 </h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jesus acosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus acosta" height="30" width="40" /></a>
