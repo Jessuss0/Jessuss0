@@ -2,13 +2,21 @@
 <h3 align="center">Soy Full Stack Web Developer de 23 años graduado en Henry, vivo en Buenos Aires, Argentina.
   <br/>
 A través de mi experiencia en Henry Bootcamp, adquirí habilidades y conocimientos esenciales para llevar mi carrera a nuevas alturas 🚀 Como resultado, domino tecnologías clave como:
+   <br/>
 Javascript
+   <br/>
 React.js
+   <br/>
 Node.js
+   <br/>
 Express.js
+   <br/>
 PostgreSQL
+   <br/>
 Sequelize
+   <br/>
 GIT
+   <br/>
 Entre otras tegnologias y frameworks, y estoy entusiasmado en aprender muchas mas.
 </h3>
 <h3 align="left">Connect with me:</h3>
