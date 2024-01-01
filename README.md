@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jesus Acosta</h1>
-<h3 align="center">Full Stack Web Developer from Buenos Aires, Argentina</h3>
+<h3 align="center">Soy Full Stack Web Developer de 23 años graduado en Henry, vivo en Buenos Aires, Argentina.
+A través de mi experiencia en Henry Bootcamp, adquirí habilidades y conocimientos esenciales para llevar mi carrera a nuevas alturas 🚀 Como resultado, domino tecnologías clave como:
+Javascript
+React.js
+Node.js
+Express.js
+PostgreSQL
+Sequelize
+GIT
+Entre otras tegnologias y frameworks, y estoy entusiasmado en aprender muchas mas.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
