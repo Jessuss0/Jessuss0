@@ -12,6 +12,7 @@ GIT.
    <br/>
 Entre otras tegnologias y frameworks, y estoy entusiasmado en aprender muchas mas.
 </h3>
+<br/>
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessuss0&show_icons=true&locale=en&layout=compact" alt="jessuss0" /></p>
 <br/>
 <h3 align="left">Connect with me:</h3>
