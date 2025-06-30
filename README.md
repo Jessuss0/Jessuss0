@@ -7,7 +7,7 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 </div>
 <h2 align="center">¿Quien soy?</h2>
-<h4 align="center">Soy un Full Stack Web Developer orientado a Front End con más de 1 año de experiencia en el desarrollo de aplicaciones web utilizando tecnologías como: <br/> <strong>Next.js, TypeScript, TailwindCSS, React, Redux, Node.js, Express, Sequelize, PostgreSQL.</strong> <br/> <br/> Me apasiona crear <strong>aplicaciones eficientes y colaborativas</strong>, y disfruto fomentar un ambiente de trabajo donde todos se sientan motivados y valorados. <br/>Estoy en busca de un equipo que comparta mi pasión por la tecnología y el éxito del proyecto. Si buscas a alguien que se integre bien y ofrezca soluciones efectivas, <strong>¡Contactame!</strong></h4>
+<h4 align="center">Soy un Full Stack Web Developer orientado a Front End con más de 2 años de experiencia en el desarrollo de aplicaciones web utilizando tecnologías como: <br/> <strong>Next.js, TypeScript, TailwindCSS, React, Redux, Node.js, Express, Sequelize, PostgreSQL.</strong> <br/> <br/> Me apasiona crear <strong>aplicaciones eficientes y colaborativas</strong>, y disfruto fomentar un ambiente de trabajo donde todos se sientan motivados y valorados. <br/>Estoy en busca de un equipo que comparta mi pasión por la tecnología y el éxito del proyecto. Si buscas a alguien que se integre bien y ofrezca soluciones efectivas, <strong>¡Contactame!</strong></h4>
 <br/>
 <h2 align="center">¿A quien me dirijo?</h2>
 <h4 align="center">Me dirijo a empresas y colaboradores que comparten mi visión de utilizar la programación para generar un impacto positivo en el mundo.
