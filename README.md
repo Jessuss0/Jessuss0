@@ -3,14 +3,14 @@
 		 <h1 align="center">Hi 👋, I'm Jesus Acosta</h1>
   	</a>
 </div>
-<h2 align="center">¿Quien soy?</h2>
-<h4 align="center">Soy un Full Stack Web Developer orientado a Front End con más de 2 años de experiencia en el desarrollo de aplicaciones web utilizando tecnologías como: <br/> <strong>Next.js, TypeScript, TailwindCSS, React, Redux, Node.js, Express, Sequelize, PostgreSQL.</strong> <br/> <br/> Me apasiona crear <strong>aplicaciones eficientes y colaborativas</strong>, y disfruto fomentar un ambiente de trabajo donde todos se sientan motivados y valorados. <br/>Estoy en busca de un equipo que comparta mi pasión por la tecnología y el éxito del proyecto. Si buscas a alguien que se integre bien y ofrezca soluciones efectivas, <strong>¡Contactame!</strong></h4>
-<br/>
-<h2 align="center">¿A quien me dirijo?</h2>
-<h4 align="center">Me dirijo a empresas y colaboradores que comparten mi visión de utilizar la programación para generar un impacto positivo en el mundo.
-Mi motivación va más allá de la alta demanda en el mercado laboral; estoy impulsado por la <strong>pasión de expandir mis horizontes</strong> y <strong>explorar soluciones innovadoras</strong> a problemas que antes se consideraban resueltos.</h4>
-<br>
-<br>
+<h2 align="center">About me</h2>
+<h4 align="center">Full Stack Web Developer centrado en Front-End con 2+ años de experiencia trabajando con Next.js, TypeScript, React, TailwindCSS, y respaldado por habilidades de backend con Node.js, Express, Sequelize y PostgreSQL.
+
+Me motiva construir aplicaciones limpias, eficientes y escalables, colaborando de forma proactiva en equipos donde la comunicación y la confianza importan.
+
+Busco oportunidades donde pueda aportar soluciones de valor, aprender nuevas tecnologías, y participar en proyectos con impacto real. Siempre con ganas de contribuir y mejorar cada día.
+
+Si necesitás alguien comprometido, orientado a la calidad de código y al usuario, contactame para conversar.</h4>
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </div>
