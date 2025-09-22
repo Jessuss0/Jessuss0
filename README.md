@@ -3,9 +3,6 @@
 		 <h1 align="center">Hi 👋, I'm Jesus Acosta</h1>
   	</a>
 </div>
-<div align='center'>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-</div>
 <h2 align="center">¿Quien soy?</h2>
 <h4 align="center">Soy un Full Stack Web Developer orientado a Front End con más de 2 años de experiencia en el desarrollo de aplicaciones web utilizando tecnologías como: <br/> <strong>Next.js, TypeScript, TailwindCSS, React, Redux, Node.js, Express, Sequelize, PostgreSQL.</strong> <br/> <br/> Me apasiona crear <strong>aplicaciones eficientes y colaborativas</strong>, y disfruto fomentar un ambiente de trabajo donde todos se sientan motivados y valorados. <br/>Estoy en busca de un equipo que comparta mi pasión por la tecnología y el éxito del proyecto. Si buscas a alguien que se integre bien y ofrezca soluciones efectivas, <strong>¡Contactame!</strong></h4>
 <br/>
@@ -91,15 +88,10 @@ Mi motivación va más allá de la alta demanda en el mercado laboral; estoy imp
 		<td>
 			<img src="https://github-readme-stats.vercel.app/api?username=Jessuss0&show_icons=true&theme=github_dark" />
 		</td>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessuss0&show_icons=true&theme=github_dark&layout=compact&langs_count=8" />
-		</td>
 	</tr>
 </table>
 
-<a href="https://www.linkedin.com/in/jesus-acosta-42647a26a/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="jesusacosta3321@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
-</a>
+## 📫 ¿Quieres saber más sobre mí? ¡Contáctame!
+- LinkedIn: [Jesus Acosta](https://www.linkedin.com/in/jesus-acosta-42647a26a/)
+- Email: jesusacosta3321@gmail.com
+- Site: [Jesus portfolio](https://portfolio-jesus-acosta.vercel.app/)
