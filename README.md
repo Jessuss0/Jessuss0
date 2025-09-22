@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://portfolio-alejoandino.vercel.app/">
-		 <h1 align="center">Hi 👋, I'm Jesus Acosta</h1>
+		 <h1 align="center">Hi, I'm Jesus Acosta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   	</a>
 </div>
 <h2 align="center">About me</h2>
